@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ProjectPRJ301/src/java/dal/UserDAO.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/model/OrderDetail.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/model/User.java</file>
+            <file>file:/D:/ProjectPRJ301/web/menu.jsp</file>
+            <file>file:/D:/ProjectPRJ301/src/java/model/BillDetail.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/dal/ProductDAO.java</file>
+            <file>file:/D:/ProjectPRJ301/web/AccessDenied.jsp</file>
+            <file>file:/D:/ProjectPRJ301/src/java/model/Order.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/dal/OrderDetailDAO.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/controller/LogoutController.java</file>
+            <file>file:/D:/ProjectPRJ301/web/panner.jsp</file>
+            <file>file:/D:/ProjectPRJ301/src/java/model/BillDetailForAdmin.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/controller/AdminController.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/model/Brand.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/controller/LoginController.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/model/Product.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/controller/RegisterController.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/model/CartItem.java</file>
+            <file>file:/D:/ProjectPRJ301/web/CustomerManager.jsp</file>
+            <file>file:/D:/ProjectPRJ301/src/java/model/Bill.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/dal/DBContext.java</file>
+            <file>file:/D:/ProjectPRJ301/web/indexAdmin.jsp</file>
+            <file>file:/D:/ProjectPRJ301/web/login.jsp</file>
+            <file>file:/D:/ProjectPRJ301/web/cart.jsp</file>
+            <file>file:/D:/ProjectPRJ301/web/ProductManager.jsp</file>
+            <file>file:/D:/ProjectPRJ301/web/index.jsp</file>
+            <file>file:/D:/ProjectPRJ301/src/java/controller/ManageCustomerController.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/controller/CartController.java</file>
+            <file>file:/D:/ProjectPRJ301/web/BillManager.jsp</file>
+            <file>file:/D:/ProjectPRJ301/src/java/dal/BrandDAO.java</file>
+            <file>file:/D:/ProjectPRJ301/web/footer.jsp</file>
+            <file>file:/D:/ProjectPRJ301/web/register.jsp</file>
+            <file>file:/D:/ProjectPRJ301/src/java/controller/ManageProductController.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/controller/CustomerController.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/dal/BillDAO.java</file>
+            <file>file:/D:/ProjectPRJ301/src/java/controller/ManageBillController.java</file>
+            <file>file:/D:/ProjectPRJ301/web/css/styles.css</file>
+            <file>file:/D:/ProjectPRJ301/web/content.jsp</file>
+            <file>file:/D:/ProjectPRJ301/src/java/dal/OrderDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
